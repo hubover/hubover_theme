@@ -17,7 +17,7 @@ const Contact = () => {
 							<li className="row">Hubover Solutions</li>
 							<li className="row">Lahore 54000</li>
 							<li className="row">Pakistan</li>
-							<li className="row">P +92-321-4441444</li>
+							<li className="row">P +92-336-4256811</li>
 						</ul>
 						<div className="map">
 							<div className="mapouter">
