@@ -6,7 +6,7 @@ const Footer = () => {
 					<div className="col-lg-2 col-sm-12">
 						<p>CALL US</p>
 						<ul className="list p-0" style={{ fontSize: '14px' }}>
-							<li className="w-100 list-item">+92 321 4441444</li>
+							<li className="w-100 list-item">+92 111 244622</li>
 							<li className="w-100 list-item">+92 336 4256811</li>
 						</ul>
 					</div>
@@ -48,7 +48,7 @@ const Footer = () => {
 				</div>
 				<div className="row h-auto">
 					<div className="col-6 footer-copyright-label h-auto">
-						<p>Copyright © 2018. Hubover Inc</p>
+						<p>Copyright © 2022. Hubover Inc</p>
 					</div>
 					<div className="col-6 footer-copyright-img h-auto">
 					</div>

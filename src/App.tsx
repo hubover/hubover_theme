@@ -5,7 +5,7 @@ import {
   ClipBoard,
   Features,
   FeatureLayout,
-  Partners,
+  // Partners,
   Contact,
   Footer
 } from './components';
@@ -22,7 +22,7 @@ const App = () => {
       <ClipBoard />
       <Features />
       <FeatureLayout />
-      <Partners />
+      {/* <Partners /> */}
       <Contact />
       <Footer />
     </React.Fragment>
